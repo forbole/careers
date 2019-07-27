@@ -1,6 +1,9 @@
 # Careers
 This repo contains the job openings in Forbole, Big Dipper and Desmos.
 
+### Contacts
+For enquiry on our job openings, please contact Terence by email (terence@forbole.com).
+
 ### About Forbole
 
 Forbole Limited ("Forbole") is a blockchain startup incorporated in Hong Kong in 2017. We advocate for using distributed ledger technology to improve our world which is dominated by a handful of centralized powers. We have three categories of products and services:
@@ -29,10 +32,10 @@ We are an early-stage startup with worldwide tractions. Joining us at this stage
 
 ### Current job openings
 
-Core Developer (Remote)
+[Core Developer (Remote)](core_developer.md)
 
-Product Manager (Remote)
+[Product Manager (Remote)](product_manager.md)
 
-Network Engineer (HK)
+[Network Engineer (HK)](network_engineer_blockchain.md)
 
-UX Designer (Remote)
+[UX Designer (Remote)](ux_designer.md)
