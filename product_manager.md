@@ -26,3 +26,6 @@ We offer
 - A golden opportunity to work in an excellent blockchain ecosystem
 - Flexible work schedule
 - Salary + equity (Forbole) + future Desmos token
+
+### Contacts
+For enquiry on our job openings, please contact Terence by email (terence@forbole.com).
