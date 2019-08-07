@@ -1,5 +1,7 @@
 ## Product Manager
 
+Please visit this [link](../master/README.md) for the general introduction.
+
 ### Responsibilities:
 
 #### Core requirements
