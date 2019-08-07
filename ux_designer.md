@@ -4,7 +4,7 @@ Please visit this [link](../master/README.md) for the general introduction.
 
 ### Responsibilities
 
-- As our first UX designer, you will be responsible for everything about UX, UI and marketing design for Forbole, Big Dipper and Desmos.
+- As our first UX designer, you will be responsible for everything about UX, UI and marketing design for Forbole, [Big Dipper](http://cosmos.bigdipper.live) and [Desmos](https://github.com/desmos-labs/introduction)
 - Collaborate with the engineers and community to evaluate the user requirements
 - Design the process flows, user stories, wireframes and mockups for our projects
 - Troubleshoot UX problems and conduct user testing iteratively
