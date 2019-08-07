@@ -1,5 +1,7 @@
 ## Core Developer
 
+Please visit this [link](../master/README.md) for the general introduction.
+
 ### Responsibilities
 
 - Responsible for the development of Big Dipper and Desmos.
