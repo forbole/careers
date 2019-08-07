@@ -1,5 +1,7 @@
 ## UX Designer
 
+Please visit this [link](../master/README.md) for the general introduction.
+
 ### Responsibilities
 
 - As our first UX designer, you will be responsible for everything about UX, UI and marketing design for Forbole, Big Dipper and Desmos.
