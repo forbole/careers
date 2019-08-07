@@ -1,5 +1,7 @@
 ## Network Engineer (Blockchain)
 
+Please visit this [link](../master/README.md) for the general introduction.
+
 ### Responsibilities
 
 - You will be responsible for the network infrastructure of our staking-as-a-service segment
