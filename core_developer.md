@@ -4,7 +4,7 @@ Please visit this [link](../master/README.md) for the general introduction.
 
 ### Responsibilities
 
-- Responsible for the development of Big Dipper and Desmos.
+- Responsible for the development of [Big Dipper](http://cosmos.bigdipper.live) and [Desmos](https://github.com/desmos-labs/introduction).
 - Write scalable, robust, testable, efficient, and easily maintainable code
 - Translate software requirements into stable, working, high performance software
 - Play a key role in architectural and design decisions
