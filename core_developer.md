@@ -35,7 +35,7 @@ Please visit this [link](../master/README.md) for the general introduction.
 - Experience working in an agile development environment
 - The ability to take ownership and see initiatives through
 - Startup and crypto friendly
-- Founder mindset
+- Founder's mindset
 
 ### Benefits
 
