@@ -1,5 +1,5 @@
 # Careers
-This repo contains the job openings in Forbole, Big Dipper and Desmos.
+This repo contains the job openings at Forbole (including Big Dipper and Desmos).
 
 ### Contacts
 For enquiry on our job openings, please contact Terence by email (terence@forbole.com).
