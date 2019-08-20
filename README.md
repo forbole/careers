@@ -34,7 +34,7 @@ We are an early-stage startup with worldwide tractions. Joining us at this stage
 
 [Core Developer (Remote)](core_developer.md)
 
-[Software Engineer (Remote)](software_engineer.md)
+[Golang Developer (Remote)](golang_developer.md)
 
 [Product Manager (Remote)](product_manager.md)
 
