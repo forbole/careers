@@ -12,10 +12,9 @@ Please visit this [link](../master/README.md) for the general introduction.
 ### Requirements
 
 #### Core requirements
-- At least 1 year experience in software engineering
-- Soound experiences in Golang and Javascript
+- Experience in software development
+- Sound experiences in Golang and/or Javascript
 - Good knowledge in Linux
-- Experience in Bitcoin, Ethereum, Hyperledger or other blockchain related open-source projects
 - Demonstrate the ability and desire to become proficient in new languages
 - Proficiency in computer science fundamentals
 - Bachelor degree in Computer Science or relevant field
@@ -24,6 +23,7 @@ Please visit this [link](../master/README.md) for the general introduction.
 - Cosmos SDK and Tendermint Core
 - WASM
 - Rust
+- Bitcoin, Ethereum, Hyperledger or other blockchain related open-source projects
 - Core infrastructure software and/or distributed systems
 - Network infrastructure and cyber security
 - Fault tolerant consensus protocols
