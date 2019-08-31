@@ -28,7 +28,7 @@ You may check the GitHub of Desmos [here](https://github.com/desmos-labs).
 
 ### How we work
 
-We are an early-stage startup with worldwide tractions. Joining us at this stage means you will be one of the early co-builders of a rising startup of a rising ecosystem in a rising industry. We have a strong sense of decentralization and diversity. There is no micro-management. Every teammate accomplishes the milstomes on her or his own initiative. We work as a distributed team across the globe by using tools such as GitHub and Zoom. 
+We are an early-stage startup with worldwide tractions. We are currently a small team across three timezones (HKT, CET, EST). Joining us at this stage means you will be one of the early co-builders of a rising startup of a rising ecosystem in a rising industry. We have a strong sense of decentralization and diversity. There is no micro-management. Every teammate accomplishes the milstomes on her or his own initiative. We work as a distributed team across the globe by using tools such as GitHub and Zoom.
 
 ### Current career opportunities
 
