@@ -1,4 +1,4 @@
-## Students Coordinator
+## Coordinator (Intern)
 
 Please visit this [link](../master/README.md) for the general introduction.
 
