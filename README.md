@@ -44,4 +44,4 @@ We are an early-stage startup with worldwide tractions. We are currently a small
 
 [UX Designer (Remote)](ux_designer.md)
 
-[Students Coordinator](students_coordinator.md)
+[Coordinator (Intern)](coordinator_intern.md)
