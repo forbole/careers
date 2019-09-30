@@ -34,14 +34,16 @@ We are an early-stage startup with worldwide tractions. We are currently a small
 
 [Developers Support Program](https://github.com/desmos-labs/community-incentive/blob/master/developers-support-program.md)
 
-[Core Developer (Remote)](core_developer.md)
+[Core Developer](core_developer.md)
 
-[Golang Developer (Remote)](golang_developer.md)
+[Software Developer](software_developer.md)
 
-[Product Manager (Remote)](product_manager.md)
+[Golang Developer](golang_developer.md)
 
-[Network Engineer (HK)](network_engineer_blockchain.md)
+[Product Manager](product_manager.md)
 
-[UX Designer (Remote)](ux_designer.md)
+[Network Engineer](network_engineer_blockchain.md)
+
+[UX Designer](ux_designer.md)
 
 [Coordinator (Intern)](coordinator_intern.md)
