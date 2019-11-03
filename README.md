@@ -38,7 +38,7 @@ We are an early-stage startup with worldwide tractions. We are currently a small
 
 [Software Developer](software_developer.md)
 
-[Golang Developer](golang_developer.md)
+[Trainee Blockchain Developer (Golang)](trainee_blockchain_developer_golang.md)
 
 [Product Manager](product_manager.md)
 
