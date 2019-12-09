@@ -1,4 +1,4 @@
-## Core Developer
+## Software Engineer
 
 Please visit this [link](../master/README.md) for the general introduction.
 
@@ -13,6 +13,7 @@ Please visit this [link](../master/README.md) for the general introduction.
 ### Requirements
 
 #### Core requirements
+
 - At least 4 years solid experiences in software engineering
 - Solid experiences in Golang and Javascript
 - Good knowledge in Linux
@@ -21,9 +22,13 @@ Please visit this [link](../master/README.md) for the general introduction.
 - Demonstrate the ability and desire to become proficient in new languages
 - Solid engineering practices such as testing methodology and documentation
 - Proficiency in computer science fundamentals
-- Bachelor degree in Computer Science or relevant field
+- Experience working in an agile development environment
+- The ability to take ownership and see initiatives through
+- Startup and crypto friendly
+- Founder's mindset
 
 #### Below experience/skills will be a plus
+
 - Cosmos SDK and Tendermint Core
 - WASM
 - Rust
@@ -31,18 +36,12 @@ Please visit this [link](../master/README.md) for the general introduction.
 - Fault tolerant consensus protocols
 - Open source experience
 
-#### Other requirement
-- Experience working in an agile development environment
-- The ability to take ownership and see initiatives through
-- Startup and crypto friendly
-- Founder's mindset
+### We offer
 
-### Benefits
-
-We offer
-- A golden opportunity to work in an excellent blockchain ecosystem
-- Flexible work schedule
-- Salary + equity (Forbole) + future Desmos token
+- Connecting to a global blockchain ecosystem
+- Opportunity to become an early member of one of the most promising blockchain startups in HK
+- Business + vocation trips
+- Competitive package which include basic salary (can be paid in fiat or cryptos) + equity (Forbole) + future Desmos tokens
 
 ### Contacts
 For enquiry on our job openings, please contact Terence by email (terence@forbole.com).
