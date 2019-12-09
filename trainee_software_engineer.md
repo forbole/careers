@@ -25,6 +25,8 @@ Please visit this [link](../master/README.md) for the general introduction.
 - Blockchain
 - Network infrastructure and cyber security
 
+#### Location: Hong Kong
+
 ### We offer
 
 - Learning directly from our co-founder who are experts in blockchain development and software engineering
