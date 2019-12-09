@@ -17,14 +17,16 @@ Please visit this [link](../master/README.md) for the general introduction.
 
 #### Core requirements
 
-- At least 4 years’ experience in engineering complex and high performance networks;
+- At least 4 years’ experience in engineering complex and high performance networks
 - Solid experience with Linux
 - Solid knowledge in network infrastructure and cyber security
-- Be experienced using python, bash script and Golang
+- Experienced using python, bash script and Golang
 - Experience in Bitcoin, Ethereum, Hyperledger or other blockchain related open-source projects
 - Have strong written and verbal communication skills
 - The ability to take ownership and see initiatives through
-- Bachelor degree in Computer Science or relevant field
+- Experience working in an agile development environment
+- Startup and crypto friendly
+- Founder's mindset
 
 #### Below experience/skills will be a plus
 
@@ -34,18 +36,14 @@ Please visit this [link](../master/README.md) for the general introduction.
 - P2P networking protocols
 - Open source experience
 
-#### Other requirement
-- Experience working in an agile development environment
-- The ability to take ownership and see initiatives through
-- Startup and crypto friendly
-- Founder's mindset
+#### Location: Asia or Europe (Remote is acceptable)
 
-### Benefits
+### We offer
 
-We offer
-- A golden opportunity to work in an excellent blockchain ecosystem
-- Flexible work schedule
-- Salary + equity (Forbole) + future Desmos token
+- Connecting to a global blockchain ecosystem
+- Opportunity to become an early member of one of the most promising blockchain startups in HK
+- Business + vocation trips
+- Competitive package which include basic salary (can be paid in fiat or cryptos) + equity (Forbole) + future Desmos tokens
 
 ### Contacts
 For enquiry on our job openings, please contact Terence by email (terence@forbole.com).
