@@ -1,4 +1,4 @@
-## Trainee Blockchain Engineer (Blockchain)
+## Trainee Blockchain Engineer
 
 Please visit this [link](../master/README.md) for the general introduction.
 
