@@ -18,11 +18,11 @@ Forbole is a recognized validator and contributor in blockchain space. We are cu
 
 #### 3) Desmos
 
-We are building Desmos, which is a social network-specific blockchain and technology stack. You may check the GitHub of Desmos [here](https://github.com/desmos-labs).
+We are building Desmos, which is a social network-specific blockchain and technology stack. You may check its [GitHub](https://github.com/desmos-labs), [website](http://desmos.network/) and [blog](https://medium.com/desmosnetwork) to learn more.
 
 ### How we work
 
-We are an early-stage startup with worldwide tractions. We are currently a small team across three timezones (HKT, CET, EST). Joining us at this stage means you will be one of the early co-builders of a rising startup of a rising ecosystem in a rising industry. We have a strong sense of decentralization and diversity. There is no micro-management. Every teammate accomplishes the milestones on her or his own initiative. We use tools such as Slack, GitHub and Zoom to work in a distributed manner.
+We are an early-stage startup with worldwide tractions. We are currently a small team across three timezones (HKT, CET, EST). Joining us at this stage means you will be one of the early co-builders of a rising startup in a rising industry. We have a strong sense of decentralization and diversity. There is no micro-management. Every teammate accomplishes the milestones on her or his own initiative. We use tools such as Slack, GitHub and Zoom to work in a distributed manner.
 
 ### Current career opportunities
 
@@ -31,6 +31,8 @@ We are an early-stage startup with worldwide tractions. We are currently a small
 [Trainee Software Engineer](trainee_software_engineer.md)
 
 [Network Engineer](network_engineer_blockchain.md)
+
+[Trainee Blockchain Engineer](trainee_blockchain_engineer.md)
 
 [Marketing Executive](marketing_executive.md)
 
