@@ -36,4 +36,6 @@ We are an early-stage startup with worldwide tractions. We are currently a small
 
 [Marketing Executive](marketing_executive.md)
 
+[Assistant Manager (Finance & Operation)](assistant_manager_finance_operation.md)
+
 [Developers Support Program](https://github.com/desmos-labs/community-incentive/blob/master/developers-support-program.md)
