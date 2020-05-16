@@ -25,6 +25,13 @@ Please visit this [link](../master/README.md) for the general introduction.
 - Blockchain
 - Network infrastructure and cyber security
 
+#### Other requirements
+- Less than 2 years full-time working experience
+- Strong written and verbal communication skills
+- The ability to take ownership and see initiatives through
+- Experience working in an agile and international environment
+- Startup and crypto friendly
+
 #### Location: Hong Kong
 
 ### Contacts
