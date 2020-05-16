@@ -4,7 +4,7 @@ Please visit this [link](../master/README.md) for the general introduction.
 
 ### Responsibilities
 
-- Responsible for the web and app development of Big Dipper and related applications (such as Desmos)
+- Responsible for the web and app development of [Big Dipper](https://github.com/forbole/big_dipper/), Mooncake ([iOS](https://testflight.apple.com/join/3Zh9mWFk)|[Android](https://play.google.com/store/apps/details?id=com.forbole.mooncake)) and other software in stealth mode.
 - Write scalable, robust, testable, efficient, and easily maintainable code
 - Translate software requirements into stable, working, high performance software
 - Play a key role in architectural and design decisions
@@ -20,20 +20,12 @@ Please visit this [link](../master/README.md) for the general introduction.
 - Startup and crypto friendly; Founder's mindset
 
 #### Below experience/skills will be a plus
-- Frameworks such as Meteor or Flutter
+- Meteor, Flutter and GHOST cms
 - Testing methodology and documentation
 - Blockchain
 - Network infrastructure and cyber security
 
 #### Location: Hong Kong
-
-### We offer
-
-- Learning directly from our co-founder who are experts in blockchain development and software engineering
-- Connecting to a global blockchain ecosystem
-- Opportunity to become an early member of one of the most promising blockchain startups in HK
-- Business + vocation trips
-- Competitive package which include basic salary (can be paid in fiat or cryptos) + equity (Forbole) + future Desmos tokens
 
 ### Contacts
 For enquiry on our job openings, please contact Terence by email (terence@forbole.com).
