@@ -6,36 +6,26 @@ For enquiry on our job openings, please contact Terence by email (terence@forbol
 
 ### About Forbole
 
-Forbole is an early-stage blockchain startup. We advocate for a decentralized internet that is public, open and censorship-resistant. Our business model has below three pillars:
+We are builders and guardians for the new internet that is public, open, censorship-resistant and decentralized. Our business model has three pillars:
 
-#### 1) Staking-as-a-Service
+#### 1) Validator
 
-Forbole is a recognized validator and contributor in blockchain space. We are currently validating 20 blockchains. Feel free to follow our [Twitter](https://twitter.com/forbole), join our [community chatroom](http://t.me/forbole) and visit our [website](https://forbole.com). 
+Forbole is a recognized validator and contributor in the blockchain space. We are currently validating [20 blockchains](https://twitter.com/i/lists/1260342310417526784/members) in ecosystems such as Cosmos, Solana, Polkadot, v.systems, Aion and Celo.
 
 #### 2) Big Dipper
 
-[Big Dipper](https://cosmos.bigdipper.live/) is an award-winning open-source block explorer and staking tool for PoS blockchains which is used by people from over 140 countries. You may check the GitHub of Big Dipper [here](https://github.com/forbole/big_dipper) for more information.
+[Big Dipper](https://cosmos.bigdipper.live/) is an award-winning open-source block explorer and tooling for PoS blockchains which is used by people from over 140 countries. You may check the GitHub of Big Dipper [here](https://github.com/forbole/big_dipper) for more information.
 
 #### 3) Desmos
 
-We are building Desmos, which is a social network-specific blockchain and technology stack. You may check its [GitHub](https://github.com/desmos-labs), [website](http://desmos.network/) and [blog](https://medium.com/desmosnetwork) to learn more.
+Desmos is a blockchain for decentralized social networks. You may check its [GitHub](https://github.com/desmos-labs), [website](http://desmos.network/) and [blog](https://medium.com/desmosnetwork) to learn more.
 
 ### How we work
 
-We are an early-stage startup with worldwide tractions. We are currently a small team across three timezones (HKT, CET, EST). Joining us at this stage means you will be one of the early co-builders of a rising startup in a rising industry. We have a strong sense of decentralization and diversity. There is no micro-management. Every teammate accomplishes the milestones on her or his own initiative. We use tools such as Slack, GitHub and Zoom to work in a distributed manner.
+We are an early-stage startup with worldwide tractions. We are currently a team of 8 working across three timezones (HKT, CET, EST). Joining us at this stage means you will be one of the early co-builders of a rising startup in a rising industry. We have a strong sense of decentralization and diversity. There is no micro-management. Every teammate accomplishes the milestones on her or his own initiative. 
 
 ### Current career opportunities
 
-[Software Engineer](software_engineer.md)
+[Trainee Software Engineer (Hong Kong)](trainee_software_engineer.md)
 
-[Trainee Software Engineer](trainee_software_engineer.md)
-
-[Network Engineer](network_engineer_blockchain.md)
-
-[Trainee Blockchain Engineer](trainee_blockchain_engineer.md)
-
-[Marketing Executive](marketing_executive.md)
-
-[Assistant Manager (Finance & Operation)](assistant_manager_finance_operation.md)
-
-[Developers Support Program](https://github.com/desmos-labs/community-incentive/blob/master/developers-support-program.md)
+[Trainee Blockchain Engineer (Hong Kong)](trainee_blockchain_engineer.md)
