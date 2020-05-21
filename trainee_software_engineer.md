@@ -17,6 +17,7 @@ Please visit this [link](../master/README.md) for the general introduction.
 - Experience in web server
 - Demonstrate the ability and desire to become proficient in new languages
 - The ability to take ownership and see initiatives through
+- Experience working in an agile and international environment
 - Startup and crypto friendly; Founder's mindset
 
 #### Below experience/skills will be a plus
@@ -27,10 +28,6 @@ Please visit this [link](../master/README.md) for the general introduction.
 
 #### Other requirements
 - Less than 2 years full-time working experience
-- Strong written and verbal communication skills
-- The ability to take ownership and see initiatives through
-- Experience working in an agile and international environment
-- Startup and crypto friendly
 
 #### Location: Hong Kong
 
